@@ -1,7 +1,16 @@
-{
-    "nama": "indra",
-    "umur": 45,
-    "pekerjaan": "programmer",
-    "gaji": 70000,
-    "hobby": ["coding", "ngopi", "lembur"]
-}
+[{
+        "nama": "indra",
+        "umur": 45,
+        "pekerjaan": "programmer",
+        "gaji": 70000,
+        "hobby": ["coding", "ngopi", "lembur"]
+    },
+
+    {
+        "nama": "ari",
+        "umur": 33,
+        "pekerjaan": "tukang",
+        "gaji": 90000,
+        "hobby": ["ngerujak", "ngopi", "tarung"]
+    }
+]
