@@ -1,0 +1,7 @@
+{
+    "nama": "indra",
+    "umur": 45,
+    "pekerjaan": "programmer",
+    "gaji": 70000,
+    "hobby": ["coding", "ngopi", "lembur"]
+}

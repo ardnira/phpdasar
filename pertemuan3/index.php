@@ -27,4 +27,15 @@ return "heloooo yooo";
     echo  "komik: $buku->harga , $buku->judul" ;
     echo "<br>";
     echo $buku->sayHello();
+        
+    class  Orang {
+        public $nama="indra",
+        $umur= 45,
+        $pekerjaan= "programmer",
+        $gaji= 2000;
+    }
+
+    $aku=new Orang();
+    echo "<br>";
+    echo "gaji: $aku->gaji ";
  ?>
